@@ -102,9 +102,25 @@ margin-bottom: 8px;
 }
 
 #economy {
-    background-color: rgb(242, 227, 140);
+    background-color: rgb(139, 129, 76);
 }
 
 #economy .articles article a {
     background-color: orange;
+}
+
+#Comédia {
+    background-color: bisque;
+}
+
+#Comédia .articles article a{
+    background-color: rgb(125, 120, 113);
+}
+
+#Biologia {
+    background-color: rgb(201, 244, 136);
+}
+
+#Biologia .articles article a{
+    background-color: #5e7666;
 }
